@@ -1,0 +1,62 @@
+
+
+
+Cognitive Services
+
+https://azure.microsoft.com/en-us/services/cognitive-services/
+
+ 
+
+Text Analytics
+
+https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/
+
+Key
+Phrase 
+
+Sentiment
+Analysis
+
+Sentiment
+Analysis & Key word analysis on Azure using Functions and Cognitive
+Services - Lab to follow https://github.com/ben-houghton/azurestackfunctions
+
+ 
+
+Logic
+Apps & Sentiment Analysis
+
+https://social.technet.microsoft.com/wiki/contents/articles/36074.logic-apps-with-azure-cognitive-service.aspx
+
+ 
+
+Twitter
+Sentiment Analysis Using PaaS Tools
+
+https://blogs.msdn.microsoft.com/deeperinsights/2017/07/12/how-to-measure-twitter-sentiment-with-azure-logic-apps-sql-database-and-power-bi/
+
+ 
+
+Entity Extraction
+
+https://itofthings.wordpress.com/2017/04/02/docker-linux-azure-entity-extraction-in-a-few-mintues/
+
+ 
+
+Entity
+Linking Intelligence API
+
+https://azure.microsoft.com/en-us/services/cognitive-services/entity-linking-intelligence-service/
+
+http://keerats.com/blog/2017/using-microsoft-azure-entity-linking-cognitive-api/
+
+ 
+
+Content
+Recommendations - can we use Recommendations API for this use case
+
+UI
+to experiment with https://azure.microsoft.com/en-us/services/cognitive-services/recommendations/
+
+https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-recommendations-ui-intro
+
